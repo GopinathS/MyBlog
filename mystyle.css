@@ -1,0 +1,13 @@
+hr{color:sienna;font-size:150%;}
+p {margin-left:20px;color:brown;font-size:100%;}
+body {background-image:url("31.jpg");color:sienna;}
+
+
+body
+{
+    background-color:#b0c4de;
+    background-image:url("31.jpg");
+    background-repeat:no-repeat;
+    background-attachment
+    background-position:right top;
+}
